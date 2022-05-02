@@ -1,0 +1,10 @@
+.header-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(48,57,104);
+}
+
+.img-logo-header{
+    margin: 12px 5px 22px 90px;
+}
