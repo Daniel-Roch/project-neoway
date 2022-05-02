@@ -65,7 +65,3 @@ PORT=/*Porta do servidor*/
 
 - Alterei a porta para **27018** para me dar um melhor controle e evitar alguns conflitos.
 - **C:/local_do_arquivo/OndeIreiFazerOBackup:/data/db** - Local onde está armazenando um backup do banco de dados do docker/mongodb
-
-# Screenshots - Insomnia
---![App Screenshot](/ImageGit/GetAll-Banco-Calindra.PNG)
---![App Screenshot](/ImageGit/Post-Banco-Calindra.PNG)
